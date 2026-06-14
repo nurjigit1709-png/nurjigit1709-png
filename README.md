@@ -1,20 +1,177 @@
-# 💫 About Me:
-💫 Обо мне:<br>💻 Я Full-Stack разработчик и создатель цифровых продуктов. Моя главная страсть — превращать абстрактные идеи и сложные задачи в мощные, работающие проекты. Я не просто пишу код, а проектирую логику, которая решает реальные проблемы и делает жизнь пользователей проще.<br><br>🚀 Постоянно двигаюсь вперед, изучаю новые технологии и внедряю лучшие практики разработки. Каждая задача для меня — это вызов и возможность сделать продукт еще быстрее и стабильнее.<br><br>🧠 В моем инженерном арсенале: гибкий Python, динамичный JavaScript, современная верстка на HTML/CSS и серверная архитектура на Node.js.<br><br>⚡ Я создаю отзывчивые и стильные веб-сайты, разрабатываю функциональные приложения и пишу умные скрипты для автоматизации рутинных процессов, переводя их на автопилот. Люблю чистый код, продуманный UX и проекты, которыми хочется гордиться.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=👋+Привет,+я+Нуржигит;💻+Full-Stack+Разработчик;🚀+Создаю+цифровые+продукты;⚡+Автоматизирую+рутину;💜+Чистый+код+%7C+Отличный+UX+%7C+Масштабируемые+системы"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nurcxl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurjigit1709@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4c1d95,50:7c3aed,100:c084fc&text=Нуржигит&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nurjigit1709-png&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nurjigit1709-png&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nurjigit1709-png&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💜 Full-Stack Разработчик
+
+### Создаю современные веб-приложения, автоматизирую процессы и превращаю идеи в рабочие цифровые продукты
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nurjigit1709-png&icon=6&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nurjigit1709-png)
+# 💫 Обо мне
+
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+💻 Full-Stack разработчик и создатель цифровых продуктов
+
+🚀 Разрабатываю сайты, сервисы и приложения, которые решают реальные задачи
+
+🧠 Постоянно изучаю новые технологии и современные подходы к разработке
+
+⚡ Автоматизирую рутинные процессы и создаю удобные инструменты
+
+🎯 Уделяю особое внимание производительности, стабильности и пользовательскому опыту
+
+☁️ Работаю с облачными технологиями, базами данных и серверной инфраструктурой
+
+🔥 Люблю сложные задачи, чистый код и проекты, которыми можно гордиться
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+# 🌐 Связаться со мной
+
+<a href="https://instagram.com/nurcxl">
+<img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:nurjigit1709@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Технологический стек
+
+<div align="center">
+
+### 💻 Языки программирования
+
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css"/>
+
+### ⚙️ Backend и базы данных
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,postgres"/>
+
+### ☁️ Облачные технологии и DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,cloudflare,github"/>
+
+### 🛠 Инструменты разработки
+
+<img src="https://skillicons.dev/icons?i=git,vscode,cmake"/>
+
+</div>
+
+---
+
+# 🚀 Сейчас изучаю и развиваюсь
+
+```yaml
+Изучаю:
+  - Архитектуру высоконагруженных систем
+  - Kubernetes
+  - DevOps практики
+  - Масштабирование приложений
+
+Создаю:
+  - Веб-приложения
+  - API сервисы
+  - Системы автоматизации
+  - Цифровые продукты
+
+Цель:
+  - Создавать продукты, которыми пользуются тысячи людей
+```
+
+---
+
+# 📊 Статистика GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurjigit1709-png&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjigit1709-png&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurjigit1709-png&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Достижения
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nurjigit1709-png&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Активность на GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurjigit1709-png&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🎮 Помимо программирования
+
+<div align="center">
+
+🎮 Видеоигры
+
+🤖 Автоматизация процессов
+
+🌌 Новые технологии
+
+☁️ Облачные платформы
+
+🚀 Стартапы и цифровые продукты
+
+📚 Постоянное самообучение
+
+</div>
+
+---
+
+# ☕ Поддержать проект
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/nurjigit1709-png">
+<img src="https://img.shields.io/badge/Поддержать_Проект-A855F7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nurjigit1709-png&color=8B5CF6&style=for-the-badge"/>
+
+<br><br>
+
+### 💜 «Превращаю идеи в современные цифровые продукты»
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4c1d95,50:7c3aed,100:c084fc"/>
+
